@@ -1,0 +1,6 @@
+Django==3.2.5
+redis==2.10.6
+requests==2.26.0
+
+
+
